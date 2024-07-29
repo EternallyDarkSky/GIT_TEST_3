@@ -1,0 +1,6 @@
+[submodule "GIT_TEST_2"]
+	path = GIT_TEST_2
+	url = git@github.com:EternallyDarkSky/GIT_TEST_2.git
+[submodule "mymodule"]
+	path = mymodule
+	url = git@github.com:EternallyDarkSky/GIT_TEST_2.git
